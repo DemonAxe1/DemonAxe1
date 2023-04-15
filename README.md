@@ -17,10 +17,10 @@
   - <b>Factorial Calculator (MIPS)</b>
      - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
-   - <b>Rock Paper Scissors (Python)</b>
+   - <b>Rock Paper Scissors</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
-   - <b>Rock Paper Scissors (Python)</b>
-     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+   - <b>Temple Island Game</b>
+     - [Temple Island - Nested if statment game](https://github.com/DemonAxe1/Temple-Island)
    - <b>Rock Paper Scissors (Python)</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
