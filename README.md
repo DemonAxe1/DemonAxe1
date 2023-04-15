@@ -31,7 +31,7 @@ Here are some of basic projects I have worked on: </b>
      - [Reading, Maniulation, and Writing files](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
 - <b>Arduino</b>
-  - [Kingsisle Games VR Experience](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Kingsisle Games VR Experience]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
