@@ -1,4 +1,10 @@
-<h1>Hi, I'm DemonAxe! <br/>
+<h1>  <br/>
+<b>
+Hey Hey!! I'm DemonAxe!
+<br/> </h1>
+<b> 
+I am an aspiring computer science major trying to improve and perfect my programing skills! I am passionate about videogames, fixing electronic (mainly game consols), and technology in general. 
+Here are some of basic projects I have worked on: </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
