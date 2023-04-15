@@ -18,11 +18,11 @@
      - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
    - <b>Rock Paper Scissors</b>
-     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+     - [Rock Paper Scissors](https://github.com/DemonAxe1/Rock-paper-Scissors)
    - <b>Temple Island Game</b>
      - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
-   - <b>Rock Paper Scissors (Python)</b>
-     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+   - <b>Ghost Town Density Project (Python)</b>
+     - [Reading, Maniulation, and Writing files](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
 - <b>Arduino</b>
   - [Kingsisle Games VR Experience](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
