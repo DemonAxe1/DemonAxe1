@@ -4,15 +4,15 @@
   
 - <b>C++</b>
   - <b>Fahrenheit Converter (C++)</b>
-    - [Practising integer calculations, functions, arrays, and array printing manipulation.](https://github.com/DemonAxe1/Fahrenheit-Converter)
+    - [Practicing integer calculations, functions, arrays, and array printing manipulation.](https://github.com/DemonAxe1/Fahrenheit-Converter)
 
-  - <b>Translating Letter Phone Numbers to numeric numbers (C++)</b>
+  - <b>Translating Letter Phone Numbers to Numeric Numbers (C++)</b>
     - [Translating Number Words](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
 
-- <b>Assembily language</b>
+- <b>Assembly Language</b>
   - <b>Decimal place rounder (MIPS)</b>
     - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-)
-  - <b>String character Countr (MIPS)</b>
+  - <b>String Character Counter (MIPS)</b>
     - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
      - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
@@ -20,12 +20,12 @@
    - <b>Rock Paper Scissors</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
    - <b>Temple Island Game</b>
-     - [Temple Island - Nested if statment game](https://github.com/DemonAxe1/Temple-Island)
+     - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
    - <b>Rock Paper Scissors (Python)</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
 - <b>Arduino</b>
-  - [Wiz Proj](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Kingsisle Games VR Experience](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
