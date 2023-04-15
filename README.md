@@ -11,7 +11,7 @@
 
 - <b>Assembily language</b>
   - <b>Decimal place rounder (MIPS)</b>
-    - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
+    - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-)
   - <b>String character Countr (MIPS)</b>
     - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
