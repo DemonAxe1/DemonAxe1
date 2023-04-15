@@ -39,7 +39,6 @@ Here are some of basic projects I have worked on: </b>
 - [How To Go As Fast As Possible In Wiz!!](https://youtu.be/uTUZhde13IQ)
 - [The Ultimate BeastMoon Monster Mayhem Guide for Beginners! - Wizard101](https://youtu.be/RKSt2OJRUYI)
 - [Wizard101 & Pirate101: Voice Acting Roundtable & CSC recap!](https://youtu.be/qgGRCXuqLYg)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
