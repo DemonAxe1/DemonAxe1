@@ -24,8 +24,8 @@
    - <b>Rock Paper Scissors (Python)</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
-- <b>Temple Isand (If Statment Mini Game) (python)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Arduino</b>
+  - [Wiz Proj](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
