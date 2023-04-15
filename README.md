@@ -35,10 +35,10 @@ Here are some of basic projects I have worked on: </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Epic Wizard101 Malistaire Fight!](https://youtu.be/E2wedLRgwas)
+- [Wizard101 & Pirate101: Voice Acting Roundtable & CSC recap!](https://youtu.be/qgGRCXuqLYg)
 - [How To Go As Fast As Possible In Wiz!!](https://youtu.be/uTUZhde13IQ)
 - [The Ultimate BeastMoon Monster Mayhem Guide for Beginners! - Wizard101](https://youtu.be/RKSt2OJRUYI)
-- [Wizard101 & Pirate101: Voice Acting Roundtable & CSC recap!](https://youtu.be/qgGRCXuqLYg)
+- [Epic Wizard101 Malistaire Fight!](https://youtu.be/E2wedLRgwas)
 
 <h2> 🤳 Connect with me:</h2>
 
