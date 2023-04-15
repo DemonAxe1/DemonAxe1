@@ -29,10 +29,10 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Epic Wizard101 Malistaire Fight!](https://youtu.be/E2wedLRgwas)
+- [How To Go As Fast As Possible In Wiz!!](https://youtu.be/uTUZhde13IQ)
+- [The Ultimate BeastMoon Monster Mayhem Guide for Beginners! - Wizard101](https://youtu.be/RKSt2OJRUYI)
+- [Wizard101 & Pirate101: Voice Acting Roundtable & CSC recap!](https://youtu.be/qgGRCXuqLYg)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
