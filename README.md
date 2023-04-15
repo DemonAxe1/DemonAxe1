@@ -15,7 +15,7 @@
   - <b>String character Countr (MIPS)</b>
     - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
-     - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
+     - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
    - <b>Rock Paper Scissors (Python)</b>
      - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
