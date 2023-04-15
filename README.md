@@ -13,7 +13,7 @@
   - <b>Decimal place rounder (MIPS)</b>
     - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
   - <b>String character Countr (MIPS)</b>
-    - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter/edit/main/README.md)
+    - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
      - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
 - <b>Python</b>
