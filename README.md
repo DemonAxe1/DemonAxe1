@@ -1,19 +1,28 @@
 <h1>Hi, I'm Tarek! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Fahrenheit Converter (C++) (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/DemonAxe1/Fahrenheit-Converter)
-- <b>Translating Letter Phone Numbers to numeric numbers (C++)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Reading, Maniulation, and Writing files (Python)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
-- <b>Rock Paper Scissors (Python)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+- <b>C++</b>
+  - <b>Fahrenheit Converter (C++)</b>
+    - [Practising integer calculations, functions, arrays, and array printing manipulation.](https://github.com/DemonAxe1/Fahrenheit-Converter)
+
+  - <b>Translating Letter Phone Numbers to numeric numbers (C++)</b>
+    - [Translating Number Words](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
+
+- <b>Assembily language</b>
+  - <b>Decimal place rounder (MIPS)</b>
+    - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
+  - <b>String character Countr (MIPS)</b>
+    - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
+  - <b>Factorial Calculator (MIPS)</b>
+     - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-/blob/main/README.md)
+- <b>Python</b>
+   - <b>Rock Paper Scissors (Python)</b>
+     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+   - <b>Rock Paper Scissors (Python)</b>
+     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
+   - <b>Rock Paper Scissors (Python)</b>
+     - [Ransomware Proof of Concept (Encrypter)](https://github.com/DemonAxe1/Rock-paper-Scissors)
   
 - <b>Temple Isand (If Statment Mini Game) (python)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
