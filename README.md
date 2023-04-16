@@ -25,9 +25,9 @@ Here are some basic projects I have worked on: </b>
 - <b>Python</b>
    - <b>Ghost Town Density Project (Python)</b>
      - [Reading, Manipulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
-   - <b>Rock Paper Scissors</b>
+   - <b>Rock Paper Scissors (Python)</b>
      - [Rock Paper Scissors](https://github.com/DemonAxe1/Rock-paper-Scissors)
-   - <b>Temple Island Game</b>
+   - <b>Temple Island Game (Python)</b>
      - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
    
   
