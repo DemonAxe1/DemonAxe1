@@ -13,15 +13,15 @@ Here are some basic projects I have worked on: </b>
     - [Practicing integer calculations, functions, arrays, and array printing manipulation.](https://github.com/DemonAxe1/Fahrenheit-Converter)
 
   - <b>Translating Letter Phone Numbers to Numeric Numbers (C++)</b>
-    - [Translating Number Words](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
+    - [case statments and lists](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
 
 - <b>Assembly Language</b>
   - <b>Decimal place rounder (MIPS)</b>
     - [Rounding Decimal Places](https://github.com/DemonAxe1/Decimal-Rounder-MIPS-)
   - <b>String Character Counter (MIPS)</b>
-    - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
+    - [array manipulation and char checking](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
-     - [Calculates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
+     - [arithmetic factorial calculations loop, and array limits understanding](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
    - <b>Ghost Town Density Project (Python)</b>
      - [Reading, Manipulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
