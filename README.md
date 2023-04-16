@@ -32,7 +32,7 @@ Here are some basic projects I have worked on: </b>
    
   
 - <b>Arduino</b>
-  - [Kingsisle Games VR Experience](https://github.com/DemonAxe1/Game-VR-Experiance)
+  - [Kingsisle Games VR Experience](https://github.com/DemonAxe1/Game-VR-Experience)
 
 <h2>📺 Popular YouTube Videos</h2>
 
