@@ -28,7 +28,7 @@ Here are some of basic projects I have worked on: </b>
    - <b>Temple Island Game</b>
      - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
    - <b>Ghost Town Density Project (Python)</b>
-     - [Reading, Maniulation, and Writing files](https://github.com/DemonAxe1/Rock-paper-Scissors)
+     - [Reading, Maniulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
   
 - <b>Arduino</b>
   - [Kingsisle Games VR Experience]()
