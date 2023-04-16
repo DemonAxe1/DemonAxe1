@@ -13,7 +13,7 @@ Here are some basic projects I have worked on: </b>
     - [Practicing integer calculations, functions, arrays, and array printing manipulation.](https://github.com/DemonAxe1/Fahrenheit-Converter)
 
   - <b>Translating Letter Phone Numbers to Numeric Numbers (C++)</b>
-    - [case statments and lists](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
+    - [switch cases and var manipulation](https://github.com/DemonAxe1/Translating-Letter-Phone-Numbers-to-numeric-numbers) <b><i></b></i>
 
 - <b>Assembly Language</b>
   - <b>Decimal place rounder (MIPS)</b>
