@@ -3,8 +3,8 @@
 Hey Hey!! I'm DemonAxe!
 <br/> </h1>
 <b> 
-I am an aspiring computer science major trying to improve and perfect my programing skills! I am passionate about videogames, fixing electronic (mainly game consols), and technology in general. 
-Here are some of basic projects I have worked on: </b>
+I am an aspiring computer science major trying to improve and perfect my programing skills! I am passionate about video games, fixing electronics (mainly game consoles), and technology in general. 
+Here are some basic projects I have worked on: </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
@@ -21,14 +21,14 @@ Here are some of basic projects I have worked on: </b>
   - <b>String Character Counter (MIPS)</b>
     - [Takes in string and counts how many characters were repeated](https://github.com/DemonAxe1/String-Character-Counter)
   - <b>Factorial Calculator (MIPS)</b>
-     - [Caclulates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
+     - [Calculates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
    - <b>Rock Paper Scissors</b>
      - [Rock Paper Scissors](https://github.com/DemonAxe1/Rock-paper-Scissors)
    - <b>Temple Island Game</b>
      - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
    - <b>Ghost Town Density Project (Python)</b>
-     - [Reading, Maniulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
+     - [Reading, Manipulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
   
 - <b>Arduino</b>
   - [Kingsisle Games VR Experience]()
