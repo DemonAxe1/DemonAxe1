@@ -23,12 +23,13 @@ Here are some basic projects I have worked on: </b>
   - <b>Factorial Calculator (MIPS)</b>
      - [Calculates the first 12 number factorial](https://github.com/DemonAxe1/Factorial-Calculator)
 - <b>Python</b>
+   - <b>Ghost Town Density Project (Python)</b>
+     - [Reading, Manipulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
    - <b>Rock Paper Scissors</b>
      - [Rock Paper Scissors](https://github.com/DemonAxe1/Rock-paper-Scissors)
    - <b>Temple Island Game</b>
      - [Temple Island - Nested if statement game](https://github.com/DemonAxe1/Temple-Island)
-   - <b>Ghost Town Density Project (Python)</b>
-     - [Reading, Manipulation, and Writing files](https://github.com/DemonAxe1/Ghost-Town)
+   
   
 - <b>Arduino</b>
   - [Kingsisle Games VR Experience]()
