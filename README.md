@@ -3,8 +3,8 @@
 Hey Hey!! I'm DemonAxe!
 <br/> </h1>
 <b> 
-I am an aspiring computer science major trying to improve and perfect my programming skills! I am passionate about video games, fixing electronics (mainly game consoles), and technology in general. 
-Here are some basic projects I have worked on: </b>
+I am an aspiring computer science major trying to improve and perfect my programming skills!</br> I am passionate about video games, fixing electronics (mainly game consoles), and technology in general. 
+</br>I know C++, python, and MIPS. Here are some basic projects I have worked on: </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
